@@ -1,31 +1,9 @@
 
 > Abra esta pagina en [https://ltimaranb.github.io/contador-autos/](https://ltimaranb.github.io/contador-autos/)
 
-## Usar como extensión
-
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/ltimaranb/contador-autos** e importar
-
-## Edita este proyecto ![Insignia de estado de compilación](https://github.com/ltimaranb/contador-autos/workflows/MakeCode/badge.svg)
-
-Para editar este repositorio en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/ltimaranb/contador-autos** y haga clic en importar
-
-## Vista previa de bloques
-
-Esta imagen muestra el código de los bloques de la última confirmación en master.
-Esta imagen puede tardar unos minutos en actualizarse.
-
-![Una vista renderizada de los bloques](https://github.com/ltimaranb/contador-autos/raw/master/.github/makecode/blocks.png)
-
-#### Metadatos (utilizados para búsqueda, renderizado)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Contador
+El proyecto se realizo para el area de sitemas. Se trata de contar carros, nos sirve para llevar un control tanto en un parqueadero como en una empresa ya que tambien sirve para contar personas.
+integrantes:
+-Jhon Alexandre Mora Prado
+-Jhon Kevin Bucheli Timaran 
+-Luis Carlos Timaran Buesaquillo
